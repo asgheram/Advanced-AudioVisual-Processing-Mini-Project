@@ -11,3 +11,6 @@ int main( ){
 	ofRunApp(new ofApp());
 
 }
+
+// code inspiration has been taken from:
+// https://www.youtube.com/watch?v=rxGXCJeI5yQ&t=506s&ab_channel=danbuzzo
